@@ -1,3 +1,6 @@
+[Turn off "Bypass ratelimits for shapeshift RPC" in hydra if you are using hydra along side this mod. This protection breaks Ban 1400 Optimized]
+
+
 Took Ban 1400, and improved it( copied from hpwd:D)
 
 flow:
